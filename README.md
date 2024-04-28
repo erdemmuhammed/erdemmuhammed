@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **python libraries**
 
-- 👨‍💻 All of my projects are available at [github](github)
+- 👨‍💻 All of my projects are available at [github]([github](https://github.com/erdemmuhammed?tab=repositories))
 
 - 💬 Ask me about **python**
 
